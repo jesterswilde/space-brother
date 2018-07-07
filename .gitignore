@@ -23,6 +23,7 @@ ExportedObj/
 *.svd
 *.pdb
 *.opendb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -34,3 +35,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/models/core_1.fbx.meta
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/ProjectVersion.txt
